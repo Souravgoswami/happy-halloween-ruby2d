@@ -6,7 +6,7 @@ require 'ruby2d'
 
 def main
 	$width, $height = 640, 480
-	set title: "Happy Halloweens Day", fps_cap: 45
+	set title: "Happy Halloweens Day", resizable: true, fps_cap: 45
 
 	house = Image.new 'background.png', width: $width, height: $height, z: -500
 
