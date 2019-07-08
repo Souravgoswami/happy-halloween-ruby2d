@@ -1,6 +1,9 @@
-# happy-halloween-ruby2d
-This is a Halloween GUI (640x480, stretchable) with Ruby2D ! Hope you will enjoy it!
+# Halloween Ruby2d 🎃
+This is a Halloween GUI (640x480, stretchable) with Ruby2D!
+![Screenshot](https://github.com/Souravgoswami/happy-halloween-ruby2d/blob/master/Screenshot.png)
 
-Running:
+## Running ⚙️
   1. You need Ruby and Ruby2D installed.
   2. Download the file, and run halloween.rb!
+
+*You can delete the [Screenshot.png](https://github.com/Souravgoswami/happy-halloween-ruby2d/blob/master/Screenshot.png).*
