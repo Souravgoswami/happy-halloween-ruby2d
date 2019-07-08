@@ -1,4 +1,4 @@
-# Halloween Ruby2d 🎃
+# Halloween Ruby2D 🎃
 This is a Halloween GUI (640x480, stretchable) with Ruby2D!
 ![Screenshot](https://github.com/Souravgoswami/happy-halloween-ruby2d/blob/master/Screenshot.png)
 
